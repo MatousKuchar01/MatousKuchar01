@@ -9,6 +9,7 @@ Hi 👋 My name is Matouš Kuchař
 
   
 * [https://matouskuchar01.github.io/template-test/](https://matouskuchar01.github.io/Quote-Generator---Project-1/)
+* https://matouskuchar01.github.io/infinite-scroll--Project-2/
 
 ### Skills
 
