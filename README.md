@@ -8,7 +8,7 @@ Hi 👋 My name is Matouš Kuchař
 * ⚡  I love a good cup of coffee!
 
   
-* https://matouskuchar01.github.io/template-test/
+* [https://matouskuchar01.github.io/template-test/](https://matouskuchar01.github.io/Quote-Generator---Project-1/)
 
 ### Skills
 
