@@ -7,10 +7,6 @@ Hi 👋 My name is Matouš Kuchař
 * 🤝  I'm open to collaborating on anything:)
 * ⚡  I love a good cup of coffee!
 
-  
-* [https://matouskuchar01.github.io/template-test/](https://matouskuchar01.github.io/Quote-Generator---Project-1/)
-* https://matouskuchar01.github.io/infinite-scroll--Project-2/
-
 ### Skills
 
 <p align="left">
@@ -31,5 +27,8 @@ Hi 👋 My name is Matouš Kuchař
 <a href="https://github.com/MatousKuchar01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatousKuchar01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
+https://matouskuchar01.github.io/picture_in_picture--Project-3/
+[https://matouskuchar01.github.io/template-test/](https://matouskuchar01.github.io/Quote-Generator---Project-1/)
+* https://matouskuchar01.github.io/infinite-scroll--Project-2/
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
