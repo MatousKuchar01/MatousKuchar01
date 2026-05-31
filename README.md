@@ -2,8 +2,7 @@ Hi 👋 My name is Matouš Kuchař
 ==============================
 
 * 🌍  I'm based in Hradec Králové
-* ✉️  You can contact me at [matous.kuchar@post.cz](mailto:matous.kuchar@post.cz) or at: https://matous-kuchar.netlify.app
-* 🧠  I'm learning programming basics
+* ✉️  You can contact me at [matous.kuchar@post.cz](mailto:matous.kuchar@post.cz)
 * 🤝  I'm open to collaborating on anything:)
 * ⚡  I love a good cup of coffee!
 
