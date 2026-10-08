@@ -1,1 +1,1 @@
-PHP programator
+Programming funny stuff..
